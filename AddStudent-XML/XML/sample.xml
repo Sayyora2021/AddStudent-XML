@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+    <Customer>
+        <Id>1</Id>
+        <Name>Sara</Name>
+        <Gender>Female</Gender>
+        <Phone>062545687</Phone>
+        <Address>
+            <Street>22rt Fox Street</Street>
+            <City>Delhi</City>
+            <State>IN</State>
+            <Country>India</Country>
+        </Address>
+    </Customer>
+    <Customer>
+        <Id>2</Id>
+        <Name>Mj</Name>
+        <Gender>Female</Gender>
+        <Phone>0645887451</Phone>
+        <Address>
+            <Street>Peter</Street>
+            <City>Alton</City>
+            <State>CA</State>
+            <Country>Canada</Country>
+        </Address>
+    </Customer>
+    <Customer>
+        <Id>3</Id>
+        <Name>Alex</Name>
+        <Gender>Male</Gender>
+        <Phone>071122334</Phone>
+        <Address>
+            <Street>11 Fire Street</Street>
+            <City>Boston</City>
+            <State>NY</State>
+            <Country>USA</Country>
+        </Address>
+    </Customer>
+    <Customer>
+        <Id>4</Id>
+        <Name>Mike</Name>
+        <Gender>Male</Gender>
+        <Phone>067894561</Phone>
+        <Address>
+            <Street>22 Kite</Street>
+            <City>Montna</City>
+            <State>LA</State>
+            <Country>Canada</Country>
+        </Address>
+    </Customer>
+</Customers>
+
+
